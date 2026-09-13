@@ -1,0 +1,8 @@
+2026-09-13 07:44:51:INFO:=== Test session started ===
+2026-09-13 07:44:55:INFO:********test_invalid_admin_login********
+2026-09-13 07:45:00:INFO:********test_invalid_admin_login passed********
+2026-09-13 07:45:11:INFO:********test_invalid_admin_login********
+2026-09-13 07:45:13:INFO:********test_invalid_admin_login passed********
+2026-09-13 07:45:16:INFO:********test_invalid_admin_login********
+2026-09-13 07:45:20:INFO:********test_invalid_admin_login passed********
+2026-09-13 07:45:21:INFO:=== Test session finished with exit status 0 ===
